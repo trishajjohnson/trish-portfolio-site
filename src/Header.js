@@ -7,7 +7,7 @@ function Header() {
         
         <header className="header">
             <div className="header__logo-box">
-                <img src={require("./assets/tjj-logo.png")} alt="TJ logo" className="header__logo" />
+                <img src={require("./assets/TJ-logo.png")} alt="TJ logo" className="header__logo" />
             </div>
             <div className="header__text-box">
                 <h1 className="heading-primary">
@@ -17,8 +17,8 @@ function Header() {
                     <span className="heading-primary--last">software engineer</span>
                 </h1>
             </div>
-            <img src={require("./assets/polaroid-copy.png")} alt="polaroid" id="header__polaroid-1" className="header__polaroid" />
-            <img src={require("./assets/polaroid-1-copy.png")} alt="polaroid" id="header__polaroid-2" className="header__polaroid" />
+            <img src={require("./assets/polaroid-2-tahoe.png")} alt="polaroid" id="header__polaroid-1" className="header__polaroid" />
+            <img src={require("./assets/polaroid-1-tahoe.png")} alt="polaroid" id="header__polaroid-2" className="header__polaroid" />
             <img src={require("./assets/clean-pushpin-shadow.png")} alt="pushpin" id="header__pushpin-1" className="header__pushpin" />
             <img src={require("./assets/clean-pushpin-shadow.png")} alt="pushpin" id="header__pushpin-2" className="header__pushpin" />
         </header>

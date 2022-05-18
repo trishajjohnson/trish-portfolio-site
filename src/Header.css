@@ -147,8 +147,8 @@ body {
     width: 25px;
     z-index: 11;
 
-    animation-delay: 5s;
-    animation: 3s pushpin ease;
+    /* animation-delay: 5s;
+    animation: 3s pushpin ease; */
 }
 
 #header__pushpin-1 {
